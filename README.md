@@ -1,3 +1,6 @@
-- 👋 Hi, I’m currently working as Software Quality Analyst at @Take5
-- 👀 I’m interested in learning Java and C#, and looking to increase my knowledge and skills in Python
-- 💞️ I’m looking to collaborate on projects that help me grow as a software developer
+## Hi there , I'm Andrés ##
+
+I'm a cuban actually livin in Brazil!
+- 25 years old, Econonomics graduate but working with TI since 2021.
+- I’m currently working as Software Quality Analyst at @Take5
+- I’m looking to collaborate on projects that help me grow as a software developer
