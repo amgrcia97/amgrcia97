@@ -1,0 +1,3 @@
+- 👋 Hi, I’m currently working as Software Quality Analyst at @Take5
+- 👀 I’m interested in learning Java and C#, and looking to increase my knowledge and skills in Python
+- 💞️ I’m looking to collaborate on projects that help me grow as a software developer
