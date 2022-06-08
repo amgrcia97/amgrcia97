@@ -5,8 +5,8 @@
 ## Hello there :wave:, I'm Andrés! ##
 
 ### :man_technologist: About Me:
-I'm a cuban actually living in Brazil!
-- Born in January of 1997, Econonomics graduate working with TI since 2021.
+I'm cuban currently living in Brazil!
+- Born in January of 1997, Econonomics graduate and working with TI since 2021.
 - Currently working as Software Quality Analyst at @Take5
 - I’m looking to collaborate on projects that help me grow as a software developer...
 ---
