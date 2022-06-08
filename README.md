@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250"/>
 </div>
 
 ## Hi there , I'm Andrés ##
 
-I'm a cuban actually living in Brazil!  :cuba: 
+I'm a cuban actually living in Brazil! :cuba:-:brazil:
 - 25 years old, Econonomics graduate but working with TI since 2021.
 - I’m currently working as Software Quality Analyst at @Take5
 - I’m looking to collaborate on projects that help me grow as a software developer
