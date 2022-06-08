@@ -8,4 +8,4 @@ I'm a cuban actually living in Brazil!
 ---
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amgrcia97&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amgrcia97&theme=highcontrast)](https://git.io/streak-stats)
