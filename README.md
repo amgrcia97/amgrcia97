@@ -8,6 +8,6 @@ I'm a cuban :cuba: actually living in Brazil!
 ---
 
 ### :arrow_right: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amgrcia97&theme=dark-smoky)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amgrcia97&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgrcia97&layout=compact&theme=dark-smoky)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgrcia97&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
