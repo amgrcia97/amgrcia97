@@ -7,5 +7,5 @@ I'm a cuban actually living in Brazil!
 
 ---
 
-### ✅: My Stats : 
+### :✅: My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amgrcia97&theme=merko)](https://git.io/streak-stats)
