@@ -30,13 +30,9 @@ I'm cuban currently living in Brazil!
     <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgrcia97&layout=compact&theme=highcontrast" width="450" height="200" />
     <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=amgrcia97&layout=compact&theme=highcontrast" width="500" height="200" />
 </div>
-
-
-
-<div align="center">
   
 ### :arrows_clockwise: Social Networks :
-  
+<div align="center">
   <img href="https://www.linkedin.com/in/andr%C3%A9s-murcia-garc%C3%ADa-195795194/" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   <img href="https://t.me/+5511992638529" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge" />
   <img href="https://www.facebook.com/andres.murciagarcia.1/" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
