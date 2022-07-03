@@ -10,6 +10,7 @@ I'm cuban currently living in Brazil!
 - Currently working as Software Quality Analyst at @Take5
 - I’m looking to collaborate on projects that help me grow as a software developer...
 
+
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
