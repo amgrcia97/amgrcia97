@@ -1,3 +1,8 @@
+<!-- GIF -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250"/>
+</div>
+
 # Hello there :wave:, I'm Andrés!
 
 ### :man_technologist: About Me:
@@ -7,7 +12,7 @@ I'm cuban currently living in Brazil!
 - I’m looking to collaborate on projects that help me grow as a software developer...
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Principal languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -17,27 +22,20 @@ I'm cuban currently living in Brazil!
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="40" height="40"/>&nbsp;
 <div>
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" **alt="Git" width="40" height="40"/>
+</div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.svgporn.com/logos/postman.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" title="Insomnia" **alt="Insomnia" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" **alt="Git" width="40" height="40"/>
-  
-</div>
 
-### :arrow_right: My Stats: 
-
+### Stats: 
 <!-- Stats -->
-<div align="center">
+<div align="center" padding-top="10px">
     <img href="https://git.io/streak-stats" src="http://github-readme-streak-stats.herokuapp.com?user=amgrcia97&theme=highcontrast" width="500" height="200" />
     <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgrcia97&layout=compact&theme=highcontrast" width="450" height="200" />
-<!--     <img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=amgrcia97&layout=compact&theme=highcontrast" width="500" height="200" /> -->
-</div>
-<!-- GIF -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250"/>
 </div>
