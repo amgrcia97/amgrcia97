@@ -6,10 +6,9 @@
 # Hello there :wave:, I'm Andrés!
 
 ### About Me:
-I'm cuban currently living in Brazil!
-- Born in January of 1997, Econonomics graduate and working with TI since 2021.
-- Currently working as Software BackEnd Developer at @Take5
-- I’m looking to collaborate on projects that help me grow as a software developer...
+Cuban currently living in Brazil!
+- Born in January of 1997, Econonomics & Finances graduate, working as Software Developer since 2021
+- Always looking to collaborate on projects that help me grow as a software developer
 
 
 ### Principal languages and Tools :
